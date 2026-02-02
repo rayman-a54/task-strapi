@@ -59,3 +59,22 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+
+# Strapi Task
+
+## Steps I Followed
+
+1. Installed Node.js and Git
+2. Created Strapi project using npx create-strapi-app
+3. Started Strapi server using npm run develop
+4. Opened Admin Panel at http://localhost:1337/admin
+5. Created Content Type (Blog/About)
+6. Added sample content
+7. Explored project folder structure
+8. Pushed project to GitHub
+
+## Tech Used
+- Node.js
+- Strapi
+- GitHub
+
